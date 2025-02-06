@@ -1,0 +1,4 @@
+[submodule "KernelSU"]
+	url = https://github.com/rifsxd/KernelSU-Next
+	branch = next-susfs
+	path = KernelSU
